@@ -7,8 +7,8 @@
 ## 🎥 YouTube Video Tutorials
 
 ### 1. **Docker Tutorial for Beginners - Complete Docker Course [3 Hours]**
-**Channel:** TechWorld with Nana  
-**URL:** [https://www.youtube.com/watch?v=3c-iBn73dDE](https://www.youtube.com/watch?v=3c-iBn73dDE){:target="_blank"}
+**Channel:** TechWorld with Nana
+**URL:** <a href="https://www.youtube.com/watch?v=3c-iBn73dDE" target="_blank">https://www.youtube.com/watch?v=3c-iBn73dDE</a>
 
 **Why This Resource Is Perfect:**
 - Comprehensive beginner-friendly explanation of Docker fundamentals
@@ -24,8 +24,8 @@
 ---
 
 ### 2. **Deploying Machine Learning Models Using Flask and Docker**
-**Channel:** Krish Naik  
-**URL:** [https://www.youtube.com/watch?v=YLdgaBi9ON8](https://www.youtube.com/watch?v=YLdgaBi9ON8){:target="_blank"}
+**Channel:** Krish Naik
+**URL:** <a href="https://www.youtube.com/watch?v=YLdgaBi9ON8" target="_blank">https://www.youtube.com/watch?v=YLdgaBi9ON8</a>
 
 **Why This Resource Is Perfect:**
 - Shows practical ML model deployment in containers
@@ -40,8 +40,8 @@
 ---
 
 ### 3. **Docker Containers Explained - What, Why, and How**
-**Channel:** NetworkChuck  
-**URL:** [https://www.youtube.com/watch?v=0qotVMX-J5s](https://www.youtube.com/watch?v=0qotVMX-J5s){:target="_blank"}
+**Channel:** NetworkChuck
+**URL:** <a href="https://www.youtube.com/watch?v=0qotVMX-J5s" target="_blank">https://www.youtube.com/watch?v=0qotVMX-J5s</a>
 
 **Why This Resource Is Perfect:**
 - Excellent visual explanations of container concepts
@@ -58,7 +58,7 @@
 ## 🌐 Interactive Documentation & Tools
 
 ### 1. **Docker's Official Get Started Tutorial**
-**URL:** [https://docs.docker.com/get-started/](https://docs.docker.com/get-started/){:target="_blank"}
+**URL:** <a href="https://docs.docker.com/get-started/" target="_blank">https://docs.docker.com/get-started/</a>
 
 **Why This Resource Is Perfect:**
 - Official documentation with interactive examples
@@ -74,7 +74,7 @@
 ---
 
 ### 2. **Play with Docker - Interactive Browser-Based Lab**
-**URL:** [https://labs.play-with-docker.com/](https://labs.play-with-docker.com/){:target="_blank"}
+**URL:** <a href="https://labs.play-with-docker.com/" target="_blank">https://labs.play-with-docker.com/</a>
 
 **Why This Resource Is Perfect:**
 - Zero-setup Docker environment in your browser
@@ -91,7 +91,7 @@
 ---
 
 ### 3. **Katacoda Docker Scenarios (Interactive Tutorials)**
-**URL:** [https://www.katacoda.com/courses/docker](https://www.katacoda.com/courses/docker){:target="_blank"}
+**URL:** <a href="https://www.katacoda.com/courses/docker" target="_blank">https://www.katacoda.com/courses/docker</a>
 
 **Why This Resource Is Perfect:**
 - Guided, interactive scenarios that build progressively
@@ -109,8 +109,8 @@
 ## 📖 In-Depth Articles & Guides
 
 ### 1. **"Demystifying Containers 101: A Deep Dive Into Container Technology"**
-**Source:** FreeCodeCamp  
-**URL:** [https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners/](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners/){:target="_blank"}
+**Source:** FreeCodeCamp
+**URL:** <a href="https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners/" target="_blank">https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners/</a>
 
 **Why This Resource Is Perfect:**
 - Excellent alternative explanations of container fundamentals
@@ -126,8 +126,8 @@
 ---
 
 ### 2. **"Docker for Data Science: A Comprehensive Guide"**
-**Source:** Towards Data Science (Medium)  
-**URL:** [https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9](https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9){:target="_blank"}
+**Source:** Towards Data Science (Medium)
+**URL:** <a href="https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9" target="_blank">https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9</a>
 
 **Why This Resource Is Perfect:**
 - Specifically focused on Docker for data science and ML workflows
@@ -145,7 +145,7 @@
 ## 🔧 Hands-On Practice Extensions
 
 ### **Docker Hub Exploration Challenge**
-**URL:** [https://hub.docker.com/](https://hub.docker.com/){:target="_blank"}
+**URL:** <a href="https://hub.docker.com/" target="_blank">https://hub.docker.com/</a>
 
 **Practice Activity:**
 1. Search for ML-related images (tensorflow, pytorch, jupyter)
